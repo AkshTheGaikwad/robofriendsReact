@@ -1,6 +1,6 @@
 export const robots =[
 {id : 1,
-    name: 'one',
+    name: 'gcgfs',
     email:'one@onemail.com'
 }
 ,{id : 2,
@@ -9,4 +9,8 @@ export const robots =[
 {id : 3,
     name: 'sfadsf',
     email:'asdfs@onemail.com'}
+    ,
+    {id : 4,
+    name: 'sdsfg',
+    email:'asdfs@nlklhv.com'}
 ]
